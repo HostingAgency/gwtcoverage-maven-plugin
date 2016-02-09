@@ -6,8 +6,8 @@
     <version>1.0.0-SNAPSHOT</version>
     <name>maven-gwtcoverage-plugin maven-Maven Mojo</name>
     <scm>
-        <connection>scm:git:git@git.hosting-agency.net:projects/maven-plugins/maven-gwtcoverage-plugin</connection>
-        <developerConnection>scm:git:git@git.hosting-agency.net:projects/maven-plugins/maven-gwtcoverage-plugin</developerConnection>
+        <connection>scm:git:git@git.hosting-agency.net:projects/maven-plugins/gwtcoverage-maven-plugin</connection>
+        <developerConnection>scm:git:git@git.hosting-agency.net:projects/maven-plugins/gwtcoverage-maven-plugin</developerConnection>
     </scm>
     <distributionManagement>
         <repository>
